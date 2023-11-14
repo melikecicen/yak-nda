@@ -1,2 +1,2 @@
-# yak-nda
+# yakında
 Melike Çiçen'in sayfasına hoşgeldiniz
